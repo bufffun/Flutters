@@ -1,0 +1,84 @@
+[submodule "flutter"]
+	path = flutter
+	url = https://github.com/flutter/flutter.git
+[submodule "packages"]
+	path = packages
+	url = https://github.com/flutter/packages.git
+[submodule "engine"]
+	path = engine
+	url = https://github.com/flutter/engine.git
+[submodule "flutter-intellij"]
+	path = flutter-intellij
+	url = https://github.com/flutter/flutter-intellij.git
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/flutter/plugins.git
+[submodule "devtools"]
+	path = devtools
+	url = https://github.com/flutter/devtools.git
+[submodule "plugin_tools"]
+	path = plugin_tools
+	url = https://github.com/flutter/plugin_tools.git
+[submodule "gallery"]
+	path = gallery
+	url = https://github.com/flutter/gallery.git
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/flutter/buildroot.git
+[submodule "css_colors"]
+	path = css_colors
+	url = https://github.com/flutter/css_colors.git
+[submodule "samples"]
+	path = samples
+	url = https://github.com/flutter/samples.git
+[submodule "tests"]
+	path = tests
+	url = https://github.com/flutter/tests.git
+[submodule "cocoon"]
+	path = cocoon
+	url = https://github.com/flutter/cocoon.git
+[submodule "goldens"]
+	path = goldens
+	url = https://github.com/flutter/goldens.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/flutter/infra.git
+[submodule "flutter_markdown"]
+	path = flutter_markdown
+	url = https://github.com/flutter/flutter_markdown.git
+[submodule "cupertino_icons"]
+	path = cupertino_icons
+	url = https://github.com/flutter/cupertino_icons.git
+[submodule "friendlychat-steps"]
+	path = friendlychat-steps
+	url = https://github.com/flutter/friendlychat-steps.git
+[submodule "codelabs"]
+	path = codelabs
+	url = https://github.com/flutter/codelabs.git
+[submodule "platform_tests"]
+	path = platform_tests
+	url = https://github.com/flutter/platform_tests.git
+[submodule "tools_metadata"]
+	path = tools_metadata
+	url = https://github.com/flutter/tools_metadata.git
+[submodule "udacity-course"]
+	path = udacity-course
+	url = https://github.com/flutter/udacity-course.git
+[submodule "crashy"]
+	path = crashy
+	url = https://github.com/flutter/crashy.git
+[submodule "slideplayer"]
+	path = slideplayer
+	url = https://github.com/flutter/slideplayer.git
+[submodule "flutter_clock"]
+	path = flutter_clock
+	url = https://github.com/flutter/flutter_clock.git
+[submodule "flutter_image"]
+	path = flutter_image
+	url = https://github.com/flutter/flutter_image.git
+[submodule "flutter_web"]
+	path = flutter_web
+	url = https://github.com/flutter/flutter_web.git
+[submodule "oss_project_template"]
+	path = oss_project_template
+	url = https://github.com/flutter/oss_project_template.git
